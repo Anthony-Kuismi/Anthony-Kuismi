@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Senior Computer Science Student @University of Minnesota Duluth</p>
+<p align="left">Computer Science B.S. Recent Grad @University of Minnesota Duluth</p>
 
 ###
 
